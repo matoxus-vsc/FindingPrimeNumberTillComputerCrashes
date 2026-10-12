@@ -1,0 +1,8 @@
+.vs/
+bin/
+obj/
+x64/
+*.user
+*.pdb
+*.ilk
+progress.txt
